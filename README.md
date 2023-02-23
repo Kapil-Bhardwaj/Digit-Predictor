@@ -1,8 +1,8 @@
-## Hand Written Digit Reconiser Project
+# Hand Written Digit Reconiser Project
 
 <br>/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////<br>
 <br>
-Link for Google Colab Note Book : https://colab.research.google.com/drive/1ZsnR2Q0B9Wp7J4t5F_qMCgTV2Gs6AqAn?usp=sharing
+  Link for Google Colab Note Book : https://colab.research.google.com/drive/1ZsnR2Q0B9Wp7J4t5F_qMCgTV2Gs6AqAn?usp=sharing
 <br>
 <br>/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////<br>
 
@@ -10,23 +10,21 @@ This Projects id Based on Deep Leaening and Concept used is ANN (Artificial Nuer
 
 
 <br>/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////<br>
-DataSet Information:
+## DataSet Information:
  * MNIST data set is Used.
  * A total of 10,000 images are present
  * 28 X 28 pixel grayscale images 
  * Total of 10 categories i.e { 1,2,3,4,5,6,7,8,9,0}<br>
- <br>/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////<br>
- 
- 
- 
- <br>/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////<br>
-->  TensorFlow_Keras Sequential Model is used to train the model <br>
-     ̐ 4 layers were added<br>
-      a. flatten layer <br>
-      b. 2 hidden layers<br>
-      c. softmax layer<br>
--> Accuracy drawn was 97.87 %<br>
--> loss and accuray graph are also ploted<br>
+
+
+<br>/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////<br>
+## <big>TensorFlow_Keras Sequential Model is used to train the model </big><br>
+      4 layers were added
+      a. flatten layer 
+      b. 2 hidden layers
+      c. softmax layer
+## Accuracy drawn was 97.87 %<br>
+• loss and accuray graph are also ploted<br>
 
 <br>/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////<br>
 ## Libraries used
@@ -34,7 +32,7 @@ DataSet Information:
 • MatplotLib<br>
 
 <br>/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////<br>
-# Snap of Matrix
+## Snap of Matrix
 • sklearn<br><img width="1440" alt="Screenshot 2023-02-23 at 5 05 27 PM" src="https://user-images.githubusercontent.com/91521935/220894958-7a608110-e0bd-45ea-a9a2-6a982aa71879.png">
 
 
